@@ -3,7 +3,7 @@
 Code for the assignment of the ASR course for 2024/25.  Please do not make a public fork of this repo, as you may not share code outside of your pair.
 
 Additional resources not in this repository:
-* [Main assignment document (pdf)]() (To Be Added)
+* [Main assignment document (pdf)](https://www.inf.ed.ac.uk/teaching/courses/asr/2024-25/coursework.pdf) (To Be Added)
 * [Recording interface](https://homepages.inf.ed.ac.uk/s2522559/recorder.html)
 * [Consent form](./consent_form/labs_consent_form.pdf) ; [MS Form Version](https://forms.office.com/e/Mz5t5jCQ4X)
 * [Participant Information Sheet](./consent_form/labs_pis_2425.pdf)
