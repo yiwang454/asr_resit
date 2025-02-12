@@ -5,7 +5,7 @@ Code for the assignment of the ASR course for 2024/25.  Please do not make a pub
 Additional resources not in this repository:
 * [Main assignment document (pdf)]() (To Be Added)
 * [Recording interface]() (To Be Added)
-* [Consent form](./consent_form/labs_consent_form.pdf)
+* [Consent form](./consent_form/labs_consent_form.pdf) [MS Form Version](https://forms.office.com/e/Mz5t5jCQ4X)
 
 # Setup 
 
