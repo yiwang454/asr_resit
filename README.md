@@ -15,7 +15,7 @@ You can follow the same setup as for the labs, https://github.com/yiwang454/asr_
 You can clone this repository and open the notebook with the following commands:
 
 ```shell
-git clone https://github.com/yiwang454/asr_assignment.git
+git clone https://github.com/yiwang454/asr_resit.git
 
 # Load your original lab virtual environment
 source /opt/conda/etc/profile.d/conda.sh
