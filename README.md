@@ -1,12 +1,10 @@
-# ASR Assignment 2025
+# ASR Resit 2025
 
-Code for the assignment of the ASR course for 2024/25.  Please do not make a public fork of this repo, as you may not share code outside of your pair.
+Code for the resit exercise for the ASR course for 2024/25.  Please do not make a public fork of this repo.
 
 Additional resources not in this repository:
-* [Main assignment document (pdf)](https://www.inf.ed.ac.uk/teaching/courses/asr/2024-25/coursework.pdf)
-* [Recording interface](https://homepages.inf.ed.ac.uk/s2522559/recorder.html)
-* [Consent form](https://homepages.inf.ed.ac.uk/s2522559/docs/labs_consent_form.pdf) ; [MS Form Version](https://forms.office.com/e/Mz5t5jCQ4X)
-* [Participant Information Sheet](https://homepages.inf.ed.ac.uk/s2522559/docs/labs_pis_2425.pdf)
+* [Labs repo](https://github.com/yiwang454/asr_labs)
+* [Assignment repo](https://github.com/yiwang454/asr_assignment))
 
 # Setup 
 
@@ -22,6 +20,6 @@ source /opt/conda/etc/profile.d/conda.sh
 conda activate asr_env
 
 # Open the assignment notebook
-cd asr_assignment
+cd asr_resit
 jupyter notebook 
 ```
