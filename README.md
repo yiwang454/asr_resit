@@ -4,7 +4,7 @@ Code for the resit exercise for the ASR course for 2024/25.  Please do not make 
 
 Additional resources not in this repository:
 * [Labs repo](https://github.com/yiwang454/asr_labs)
-* [Assignment repo](https://github.com/yiwang454/asr_assignment))
+* [Assignment repo](https://github.com/yiwang454/asr_assignment)
 
 # Setup 
 
